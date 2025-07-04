@@ -1,5 +1,5 @@
-+ Installation: download [the code](https://raw.githubusercontent.com/meltypudding/Youtube-community-downloader/refs/heads/main/download_posts.py)
-+ Requires: Python>=3.10, Requests
++ Installation: download [the code](https://raw.githubusercontent.com/meltypudding/Youtube-community-downloader/refs/heads/main/download_posts.py).
++ Requires: Python>=3.10, Requests.
 ```
 > python3 download_post.py https://www.youtube.com/@***/posts
 ```
